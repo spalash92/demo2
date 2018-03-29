@@ -1,0 +1,30 @@
+Firewall- 10.11.30.1 
+Share drive  \\10.11.31.165
+Confluence -https://confluence.infostretch.com/pages/viewpage.action?spaceKey=AP&title=QE+Onboarding+in+Automation
+
+bit bucket-spalash92
+git-palash
+
+
+gitbash-spalash92
+pwd-Pass_123
+
+Bit Buccket--https://spalash92@bitbucket.org/spalash92/finalone.git
+Jenkins Username-palash.saxena
+pwd-Pass_123
+
+java -jar jenkins.war 
+
+https://jira.infostretch.com/projects/BAL/issues/BAL-90?filter=allopenissues 
+
+
+IPv4 address:	10.11.31.179
+IPv4 DNS Servers:	10.11.30.2
+Manufacturer:	Realtek
+Description:	Realtek PCIe GBE Family Controller
+Driver version:	9.1.402.2015
+Physical address:	?70-8B-CD-9F-C7-69
+
+
+
+"id": "5ab10e79ee11cb0001ce813b"
